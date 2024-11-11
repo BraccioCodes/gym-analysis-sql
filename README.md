@@ -4,8 +4,9 @@ This is the final project for my SQL class in my Data Science course. I am using
 
 This is the dataset's ERD: 
 
+![ERD](./ERD.png)
 
-I planned to answer 5 questions using this dataset:
+I answered 5 questions using this dataset:
 - What's the yearly revenue per location?
 - What are the demographics of gym members?
 - Which locations have the best athletes? (members that perform higher than the average member)
